@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Angie</key>
+	<dict>
+		<key>1</key>
+		<string>100 Pull-ups</string>
+		<key>2</key>
+		<string>100 Push-ups</string>
+		<key>3</key>
+		<string>100 Sit-ups</string>
+		<key>4</key>
+		<string>100 Squats</string>
+		<key>Notes</key>
+		<string>For time. Complete all reps of each exercise before moving to the next</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Barbara</key>
+	<dict>
+		<key>1</key>
+		<string>20 Pull-ups</string>
+		<key>2</key>
+		<string>30 Push-ups</string>
+		<key>3</key>
+		<string>40 Sit-ups</string>
+		<key>4</key>
+		<string>50 Squats</string>
+		<key>Notes</key>
+		<string>5 rounds, time each round. Rest precisely three minutes between each round.</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Chelsea</key>
+	<dict>
+		<key>1</key>
+		<string>5 Pull-ups</string>
+		<key>2</key>
+		<string>10 Push-ups</string>
+		<key>3</key>
+		<string>15 Squats</string>
+		<key>Notes</key>
+		<string>Each min on the min for 30 min.</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Cindy</key>
+	<dict>
+		<key>1</key>
+		<string>5 Pull-ups</string>
+		<key>2</key>
+		<string>10 Push-ups</string>
+		<key>3</key>
+		<string>15 Squats</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 20 min</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Diane</key>
+	<dict>
+		<key>1</key>
+		<string>Deadlift 225 lbs</string>
+		<key>2</key>
+		<string>Handstand push-ups</string>
+		<key>Notes</key>
+		<string>21-15-9 reps, for time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Elizabeth</key>
+	<dict>
+		<key>1</key>
+		<string>Clean 135 lbs</string>
+		<key>2</key>
+		<string>Ring Dips</string>
+		<key>Notes</key>
+		<string>21-15-9 reps, for time.</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Fran</key>
+	<dict>
+		<key>1</key>
+		<string>Thruster 95 lbs</string>
+		<key>2</key>
+		<string>Pull-ups</string>
+		<key>Notes</key>
+		<string>21-15-9 reps, for time.</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Grace</key>
+	<dict>
+		<key>1</key>
+		<string>Clean and Jerk 135 lbs</string>
+		<key>Notes</key>
+		<string>30 reps for time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Helen</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter run</string>
+		<key>2</key>
+		<string>21 x 1.5 pood Kettlebell swing</string>
+		<key>3</key>
+		<string>12 Pull-ups</string>
+		<key>Notes</key>
+		<string>3 rounds for time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Isabel</key>
+	<dict>
+		<key>1</key>
+		<string>Snatch 135 lbs</string>
+		<key>Notes</key>
+		<string>30 reps for time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Jackie</key>
+	<dict>
+		<key>1</key>
+		<string>1000 meter row</string>
+		<key>2</key>
+		<string>50 Thrusters 45 lbs</string>
+		<key>3</key>
+		<string>30 Pull-ups</string>
+		<key>Notes</key>
+		<string>For time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Karen</key>
+	<dict>
+		<key>1</key>
+		<string>150 Wall-ball shots</string>
+		<key>Notes</key>
+		<string>For time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Linda</key>
+	<dict>
+		<key>1</key>
+		<string>Deadlift 1 1/2 BW</string>
+		<key>2</key>
+		<string>Bench BW</string>
+		<key>3</key>
+		<string>Clean 3/4 BW</string>
+		<key>Notes</key>
+		<string>10/9/8/7/6/5/4/3/2/1 rep. Rounds for time.</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Mary</key>
+	<dict>
+		<key>1</key>
+		<string>5 Handstand push-ups</string>
+		<key>2</key>
+		<string>10 1-legged squats</string>
+		<key>3</key>
+		<string>15 Pull-ups</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 20 min</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Nancy</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter run</string>
+		<key>2</key>
+		<string>15 Overhead squat 95 lbs</string>
+		<key>Notes</key>
+		<string>5 rounds for time</string>
+		<key>Type</key>
+		<string>The Benchmark Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Annie</key>
+	<dict>
+		<key>1</key>
+		<string>Double-unders</string>
+		<key>2</key>
+		<string>Sit-ups</string>
+		<key>Notes</key>
+		<string>50-40-30-20-10 rep rounds. For time</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Eva</key>
+	<dict>
+		<key>1</key>
+		<string>800 meter run</string>
+		<key>2</key>
+		<string>30 x 2 pood Kettlebell swing</string>
+		<key>3</key>
+		<string>30 Pull-ups</string>
+		<key>Notes</key>
+		<string>5 rounds for time</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Kelly</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter run</string>
+		<key>2</key>
+		<string>30 x 24 inch box jump</string>
+		<key>3</key>
+		<string>30 Wall-ball shots, 20lb</string>
+		<key>Notes</key>
+		<string>5 rounds for time</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Lynne</key>
+	<dict>
+		<key>1</key>
+		<string>Bodyweight bench press</string>
+		<key>2</key>
+		<string>Pull-ups</string>
+		<key>Notes</key>
+		<string>5 rounds for max reps</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Nicole</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter run</string>
+		<key>2</key>
+		<string>Max rep pull-ups</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 20 min</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Amanda</key>
+	<dict>
+		<key>1</key>
+		<string>Muscle-ups</string>
+		<key>2</key>
+		<string>Snatches (135/95 lbs)</string>
+		<key>Notes</key>
+		<string>9/7/5 reps for time</string>
+		<key>Type</key>
+		<string>The New Girls</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>JT</key>
+	<dict>
+		<key>1</key>
+		<string>Handstand push-up</string>
+		<key>2</key>
+		<string>Ring Dips</string>
+		<key>3</key>
+		<string>Push-ups</string>
+		<key>Notes</key>
+		<string>21-15-9 reps for time</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Michael</key>
+	<dict>
+		<key>1</key>
+		<string>800 meter run</string>
+		<key>2</key>
+		<string>50 Back extensions</string>
+		<key>3</key>
+		<string>50 Sit-ups</string>
+		<key>Notes</key>
+		<string>3 rounds for time</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Murph</key>
+	<dict>
+		<key>1</key>
+		<string>1 mile run</string>
+		<key>2</key>
+		<string>100 Pull-ups</string>
+		<key>3</key>
+		<string>200 Push-ups</string>
+		<key>4</key>
+		<string>300 Squats</string>
+		<key>5</key>
+		<string>1 mile run</string>
+		<key>Notes</key>
+		<string>For time. Partition the exercises as needed, just start and finish with a mile run. wear a 20lb vest if available.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Daniel</key>
+	<dict>
+		<key>1</key>
+		<string>50 Pull-ups</string>
+		<key>2</key>
+		<string>400 meter run</string>
+		<key>3</key>
+		<string>21 Thrusters 95lbs</string>
+		<key>4</key>
+		<string>800 meter run</string>
+		<key>5</key>
+		<string>21 Thrusters 95lbs</string>
+		<key>6</key>
+		<string>400 meter run</string>
+		<key>7</key>
+		<string>50 Pull-ups</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Josh</key>
+	<dict>
+		<key>1</key>
+		<string>21 reps 95lb Overhead squat</string>
+		<key>2</key>
+		<string>42 Pull-ups</string>
+		<key>3</key>
+		<string>15 reps 95lbs Overhead squat</string>
+		<key>4</key>
+		<string>30 Pull-ups</string>
+		<key>5</key>
+		<string>9 reps 95lb Overhead squat</string>
+		<key>6</key>
+		<string>18 Pull-ups</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Jason</key>
+	<dict>
+		<key>1</key>
+		<string>100 Body squats</string>
+		<key>2</key>
+		<string>5 Muscle-ups</string>
+		<key>3</key>
+		<string>75 Body squats</string>
+		<key>4</key>
+		<string>10 Muscle-ups</string>
+		<key>5</key>
+		<string>50 Body squats</string>
+		<key>6</key>
+		<string>15 Muscle-ups</string>
+		<key>7</key>
+		<string>25 Body squats</string>
+		<key>8</key>
+		<string>20 Muscle-ups</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Badger</key>
+	<dict>
+		<key>1</key>
+		<string>30 reps 95lb Squat clean</string>
+		<key>2</key>
+		<string>30 Pull-ups</string>
+		<key>3</key>
+		<string>800 meter run</string>
+		<key>Notes</key>
+		<string>3 rounds for time</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Joshie</key>
+	<dict>
+		<key>1</key>
+		<string>21 reps 40lb Dumbbell snatch (right hand)</string>
+		<key>2</key>
+		<string>21 L Pull-ups</string>
+		<key>3</key>
+		<string>21 reps 40lb Dumbbell snatch (left hand)</string>
+		<key>4</key>
+		<string>21 L Pull-ups</string>
+		<key>Notes</key>
+		<string>3 rounds for time. The snatches are full squat snatches.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Nate</key>
+	<dict>
+		<key>1</key>
+		<string>2 Muscle-ups</string>
+		<key>2</key>
+		<string>4 Handstand Push-ups</string>
+		<key>3</key>
+		<string>8 2-pood Kettlebell swings</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 20 min.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Randy</key>
+	<dict>
+		<key>1</key>
+		<string>75 reps 75lbs Power snatches</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Tommy V</key>
+	<dict>
+		<key>1</key>
+		<string>21 reps 115lb Thruster</string>
+		<key>2</key>
+		<string>12 ascents 15ft Rope Climb</string>
+		<key>3</key>
+		<string>15 reps 115lb Thruster</string>
+		<key>4</key>
+		<string>9 ascents 15ft Rope Climb</string>
+		<key>5</key>
+		<string>9 reps 115lb Thruster</string>
+		<key>6</key>
+		<string>6 ascents 15ft Rope Climb</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Griff</key>
+	<dict>
+		<key>1</key>
+		<string>800 meter run</string>
+		<key>2</key>
+		<string>400 meter run backwards</string>
+		<key>3</key>
+		<string>800 meter run</string>
+		<key>4</key>
+		<string>400 meter run backwards</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Ryan</key>
+	<dict>
+		<key>1</key>
+		<string>7 Muscle-ups</string>
+		<key>2</key>
+		<string>21 Burpees</string>
+		<key>Notes</key>
+		<string>5 rounds for time. Each burpee ends with a jump one foot above max standing reach.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Erin</key>
+	<dict>
+		<key>1</key>
+		<string>15 reps 40lb Dumbbell split cleans</string>
+		<key>2</key>
+		<string>21 Pull-ups</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Mr. Joshua</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter run</string>
+		<key>2</key>
+		<string>30 Glute-ham sit-ups</string>
+		<key>3</key>
+		<string>15 reps 250lb Deadlift</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>DT</key>
+	<dict>
+		<key>1</key>
+		<string>12 reps 155lb Deadlift</string>
+		<key>2</key>
+		<string>9 reps 155lb Hang power cleans</string>
+		<key>3</key>
+		<string>6 reps 155 lb Push jerk</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Danny</key>
+	<dict>
+		<key>1</key>
+		<string>30 reps 24 inch box jump</string>
+		<key>2</key>
+		<string>20 reps 115lb Push press</string>
+		<key>3</key>
+		<string>30 Pull-ups</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 20 min.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Hansen</key>
+	<dict>
+		<key>1</key>
+		<string>30 reps 2 pood Kettlebell swings</string>
+		<key>2</key>
+		<string>30 Burpees</string>
+		<key>3</key>
+		<string>30 Glute-ham sit-ups</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Tyler</key>
+	<dict>
+		<key>1</key>
+		<string>7 Muscle-ups</string>
+		<key>2</key>
+		<string>21 reps 95lb Sumo-deadlift high-pull</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Lumberjack 20</key>
+	<dict>
+		<key>1</key>
+		<string>20 reps 275lb Deadlifts</string>
+		<key>2</key>
+		<string>400 meter run</string>
+		<key>3</key>
+		<string>20 reps 2 pood Kettlebell swings</string>
+		<key>4</key>
+		<string>400 meter run</string>
+		<key>5</key>
+		<string>20 reps 115lb Overhead squats</string>
+		<key>6</key>
+		<string>400 meter run</string>
+		<key>7</key>
+		<string>20 Burpees</string>
+		<key>8</key>
+		<string>400 meter run</string>
+		<key>9</key>
+		<string>20 Pull-ups chest to bar</string>
+		<key>10</key>
+		<string>400 meter run</string>
+		<key>11</key>
+		<string>20 reps 24 inch Box jumps</string>
+		<key>12</key>
+		<string>400 meter run</string>
+		<key>13</key>
+		<string>20 reps 45lb Dumbbell squat cleans</string>
+		<key>14</key>
+		<string>400 meter run</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Stephen</key>
+	<dict>
+		<key>1</key>
+		<string>GHD Sit-ups</string>
+		<key>2</key>
+		<string>Back extension</string>
+		<key>3</key>
+		<string>Knees to elbow</string>
+		<key>4</key>
+		<string>95lb Stiff legged deadlift</string>
+		<key>Notes</key>
+		<string>30-25-20-15-10-5 rep rounds. For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Garrett</key>
+	<dict>
+		<key>1</key>
+		<string>75 Body squat</string>
+		<key>2</key>
+		<string>25 Ring hanstand push-ups</string>
+		<key>3</key>
+		<string>25 L-pull-ups</string>
+		<key>Notes</key>
+		<string>3 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>War Frank</key>
+	<dict>
+		<key>1</key>
+		<string>25 Muscle-ups</string>
+		<key>2</key>
+		<string>100 Body squats</string>
+		<key>3</key>
+		<string>35 GHD sit-ups</string>
+		<key>Notes</key>
+		<string>3 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>McGhee</key>
+	<dict>
+		<key>1</key>
+		<string>5 reps 275lb Deadlift</string>
+		<key>2</key>
+		<string>13 Push-ups</string>
+		<key>3</key>
+		<string>9 reps 24in Box jumps</string>
+		<key>Notes</key>
+		<string>As many rounds as possible in 30 min.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 30</string>
+	</dict>
+	<key>Paul</key>
+	<dict>
+		<key>1</key>
+		<string>50 Double unders</string>
+		<key>2</key>
+		<string>35 Knees to elbows</string>
+		<key>3</key>
+		<string>20 yards 185lb Overhead walk</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Jerry</key>
+	<dict>
+		<key>1</key>
+		<string>1 mile run</string>
+		<key>2</key>
+		<string>2k row</string>
+		<key>3</key>
+		<string>1 mile run</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Nutts</key>
+	<dict>
+		<key>1</key>
+		<string>10 Handstand push-ups</string>
+		<key>2</key>
+		<string>15 reps 250lb Deadlift</string>
+		<key>3</key>
+		<string>25 reps 30in Box jumps</string>
+		<key>4</key>
+		<string>50 Pull-ups</string>
+		<key>5</key>
+		<string>100 Wall-ball shots, 20lb, 10ft</string>
+		<key>6</key>
+		<string>200 Double unders</string>
+		<key>7</key>
+		<string>400 meter run with 45lb plate</string>
+		<key>Notes</key>
+		<string>For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Arnie</key>
+	<dict>
+		<key>1</key>
+		<string>21 Turkish get-ups, right arm</string>
+		<key>2</key>
+		<string>50 swings</string>
+		<key>3</key>
+		<string>21 Overhead squats, left arm</string>
+		<key>4</key>
+		<string>50 swings</string>
+		<key>5</key>
+		<string>21 Overhead squats, right arm</string>
+		<key>6</key>
+		<string>50 swings</string>
+		<key>7</key>
+		<string>21 Turkish get-ups, left arm</string>
+		<key>Notes</key>
+		<string>With a single 2 pood kettlebell. For time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>The Sevens</key>
+	<dict>
+		<key>1</key>
+		<string>7 Handstand push-ups</string>
+		<key>2</key>
+		<string>7 reps 135 Thrusters</string>
+		<key>3</key>
+		<string>7 Knees to elbows</string>
+		<key>4</key>
+		<string>7 reps 245lb Deadlift</string>
+		<key>5</key>
+		<string>7 Burpees</string>
+		<key>6</key>
+		<string>7 Kettlebell swings, 2 pood</string>
+		<key>7</key>
+		<string>7 Pull-ups</string>
+		<key>Notes</key>
+		<string>7 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>RJ</key>
+	<dict>
+		<key>1</key>
+		<string>Run 800 meters</string>
+		<key>2</key>
+		<string>15ft Rope Climb, 5 ascents</string>
+		<key>3</key>
+		<string>50 Push-ups</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Luce</key>
+	<dict>
+		<key>1</key>
+		<string>1k run</string>
+		<key>2</key>
+		<string>10 Muscle-ups</string>
+		<key>3</key>
+		<string>100 Squats</string>
+		<key>Notes</key>
+		<string>3 rounds wearing a 20 lb vest</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Johnson</key>
+	<dict>
+		<key>1</key>
+		<string>9 Deadlifts with 245lbs</string>
+		<key>2</key>
+		<string>8 Muscle-ups</string>
+		<key>3</key>
+		<string>9 Squat cleans with155lbs</string>
+		<key>Notes</key>
+		<string>AMRAP in 20 minutes</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Roy</key>
+	<dict>
+		<key>1</key>
+		<string>15 Deadlifts with 225lbs</string>
+		<key>2</key>
+		<string>20 Box jumps (24in box)</string>
+		<key>3</key>
+		<string>25 Pull-ups</string>
+		<key>Notes</key>
+		<string>For time</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Adam Brown</key>
+	<dict>
+		<key>1</key>
+		<string>24 Deadlifts with 295lbs</string>
+		<key>2</key>
+		<string>24 Box jumps (24in box)</string>
+		<key>3</key>
+		<string>24 Wallball shots with 20lb ball</string>
+		<key>4</key>
+		<string>24 Benchpress with 195lbs</string>
+		<key>5</key>
+		<string>24 Box jumps (24in box)</string>
+		<key>6</key>
+		<string>24 Wallball shots with 20lb ball</string>
+		<key>7</key>
+		<string>24 Cleans with 145 lbs</string>
+		<key>Notes</key>
+		<string>2 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Coe</key>
+	<dict>
+		<key>1</key>
+		<string>10 Thrusters with 95lbs</string>
+		<key>2</key>
+		<string>10 Ring push-ups</string>
+		<key>Notes</key>
+		<string>10 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Severin</key>
+	<dict>
+		<key>1</key>
+		<string>50 Strict Pull-ups</string>
+		<key>2</key>
+		<string>100 Push-ups, release hands from floor at bottom</string>
+		<key>3</key>
+		<string>5k run</string>
+		<key>Notes</key>
+		<string>1 round for time. If have a 20lb vest, wear it.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Helton</key>
+	<dict>
+		<key>1</key>
+		<string>800 meter run</string>
+		<key>2</key>
+		<string>30 Dumbbell Squat cleans with 50lbs</string>
+		<key>3</key>
+		<string>30 Burpees</string>
+		<key>Notes</key>
+		<string>3 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Jack</key>
+	<dict>
+		<key>1</key>
+		<string>10 Push-press with 115 lbs</string>
+		<key>2</key>
+		<string>10 KB swings with 1.5 pood</string>
+		<key>3</key>
+		<string>10 Box jumps (24in box)</string>
+		<key>Notes</key>
+		<string>AMRAP in 20 min</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Forrest</key>
+	<dict>
+		<key>1</key>
+		<string>20 L-pull-ups</string>
+		<key>2</key>
+		<string>30 Toes to bar</string>
+		<key>3</key>
+		<string>40 Burpees</string>
+		<key>4</key>
+		<string>800 Meter run</string>
+		<key>Notes</key>
+		<string>3 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Bulger</key>
+	<dict>
+		<key>1</key>
+		<string>150 meter run</string>
+		<key>2</key>
+		<string>7 Chest to bar pull-ups</string>
+		<key>3</key>
+		<string>7 Front squats with 135lbs</string>
+		<key>4</key>
+		<string>7 Handstand push-ups</string>
+		<key>Notes</key>
+		<string>10 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Brenton</key>
+	<dict>
+		<key>1</key>
+		<string>100ft Bear crawl</string>
+		<key>2</key>
+		<string>100ft Standing broad-jump</string>
+		<key>3</key>
+		<string>3 Burpees after every 5 broad-jumps</string>
+		<key>Notes</key>
+		<string>5 rounds for time. If you have a 20lb vest, wear it</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Blake</key>
+	<dict>
+		<key>1</key>
+		<string>100ft Walking lunge with 45lb plate held overhead</string>
+		<key>2</key>
+		<string>30 Box jumps (24in box)</string>
+		<key>3</key>
+		<string>20 Wallball shots (20lb ball)</string>
+		<key>4</key>
+		<string>10 Handstand push-ups</string>
+		<key>Notes</key>
+		<string>4 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Collin</key>
+	<dict>
+		<key>1</key>
+		<string>400 meter 50lb sandbag carry</string>
+		<key>2</key>
+		<string>12 Push-press with 115lbs</string>
+		<key>3</key>
+		<string>12 Box jumps (24in box)</string>
+		<key>4</key>
+		<string>12 Sump deadlift high-pull with 95lbs</string>
+		<key>Notes</key>
+		<string>6 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Thompson</key>
+	<dict>
+		<key>1</key>
+		<string>1 15ft Rope climb</string>
+		<key>2</key>
+		<string>29 Back squats with 95lbs</string>
+		<key>3</key>
+		<string>10 meter farmer carry with 135lb dumbbells</string>
+		<key>Notes</key>
+		<string>10 rounds for time. Begin rope climbs seated on the floor.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Whitten</key>
+	<dict>
+		<key>1</key>
+		<string>22 Kettlebell swings with 2 pood</string>
+		<key>2</key>
+		<string>22 Box jumps (24in box)</string>
+		<key>3</key>
+		<string>400 meter run</string>
+		<key>4</key>
+		<string>22 Burpees</string>
+		<key>5</key>
+		<string>22 Wall ball shots (20lb ball)</string>
+		<key>Notes</key>
+		<string>5 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Bull</key>
+	<dict>
+		<key>1</key>
+		<string>200 Double-unders</string>
+		<key>2</key>
+		<string>50 Overhead squats with 135 lbs</string>
+		<key>3</key>
+		<string>50 Pull-ups</string>
+		<key>4</key>
+		<string>1 mile run</string>
+		<key>Notes</key>
+		<string>2 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Rankel</key>
+	<dict>
+		<key>1</key>
+		<string>6 Deadlifts with 225lbs</string>
+		<key>2</key>
+		<string>7 Burpee pull-ups</string>
+		<key>3</key>
+		<string>10 Kettlebell swings with 2 pood</string>
+		<key>4</key>
+		<string>200 meter run</string>
+		<key>Notes</key>
+		<string>AMRAP in 20 min</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Holbrook</key>
+	<dict>
+		<key>1</key>
+		<string>5 Thrusters with 115lbs</string>
+		<key>2</key>
+		<string>10 Pull-ups</string>
+		<key>3</key>
+		<string>100 meter sprint</string>
+		<key>4</key>
+		<string>1 min rest</string>
+		<key>Notes</key>
+		<string>10 rounds, each for time</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Ledesma</key>
+	<dict>
+		<key>1</key>
+		<string>5 Parallette handstand push-ups</string>
+		<key>2</key>
+		<string>10 Toes through rings</string>
+		<key>3</key>
+		<string>15 Medicine ball cleans (20lb ball)</string>
+		<key>Notes</key>
+		<string>AMRAP in 20 min</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>AMRAP 20</string>
+	</dict>
+	<key>Wittman</key>
+	<dict>
+		<key>1</key>
+		<string>15 Kettlebell swings (1.5 pood)</string>
+		<key>2</key>
+		<string>15 Power cleans with 95lbs</string>
+		<key>3</key>
+		<string>15 Box jumps (24in box)</string>
+		<key>Notes</key>
+		<string>7 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>McCluskey</key>
+	<dict>
+		<key>1</key>
+		<string>9 Muscle-ups</string>
+		<key>2</key>
+		<string>15 Burpee pull-ups</string>
+		<key>3</key>
+		<string>21 Pull-ups</string>
+		<key>4</key>
+		<string>800 meter run</string>
+		<key>Notes</key>
+		<string>3 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>Weaver</key>
+	<dict>
+		<key>1</key>
+		<string>10 L-pull-ups</string>
+		<key>2</key>
+		<string>15 Push-ups</string>
+		<key>3</key>
+		<string>15 Chest to bar pull-ups</string>
+		<key>4</key>
+		<string>15 Push-ups</string>
+		<key>5</key>
+		<string>20 Pull-ups</string>
+		<key>6</key>
+		<string>15 Push-ups</string>
+		<key>Notes</key>
+		<string>4 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+	<key>The Sevens - 19 - 7</key>
+	<dict>
+		<key>1</key>
+		<string>7 Handstand push-ups</string>
+		<key>2</key>
+		<string>7 reps 135 Thrusters</string>
+		<key>3</key>
+		<string>7 Knees to elbows</string>
+		<key>4</key>
+		<string>7 reps 245lb Deadlift</string>
+		<key>5</key>
+		<string>7 Burpees</string>
+		<key>6</key>
+		<string>7 Kettlebell swings, 2 pood</string>
+		<key>7</key>
+		<string>7 Pull-ups</string>
+		<key>Notes</key>
+		<string>7 rounds for time.</string>
+		<key>Type</key>
+		<string>The Hero Workouts</string>
+		<key>Timer</key>
+		<string>normal</string>
+	</dict>
+</dict>
+</plist>

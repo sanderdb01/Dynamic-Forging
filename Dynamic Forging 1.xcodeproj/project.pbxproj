@@ -1,0 +1,450 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		745BBA7415F082CD00211CC2 /* stopwatch.png in Resources */ = {isa = PBXBuildFile; fileRef = 745BBA7315F082CD00211CC2 /* stopwatch.png */; };
+		745BBA7815F805A700211CC2 /* BIDDFWTimerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 745BBA7715F805A700211CC2 /* BIDDFWTimerView.m */; };
+		745BBA7F15FA9D1800211CC2 /* BIDWODTimerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 745BBA7E15FA9D1800211CC2 /* BIDWODTimerView.m */; };
+		745BBA8315FAA67700211CC2 /* BIDRandomWOD.m in Sources */ = {isa = PBXBuildFile; fileRef = 745BBA8215FAA67700211CC2 /* BIDRandomWOD.m */; };
+		745BBA8615FD743A00211CC2 /* BIDWODRandomTimerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 745BBA8515FD743900211CC2 /* BIDWODRandomTimerView.m */; };
+		745BBA8A16013AE800211CC2 /* BIDGradientButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 745BBA8916013AE800211CC2 /* BIDGradientButton.m */; };
+		745BBA8C1601475B00211CC2 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 745BBA8B1601475B00211CC2 /* QuartzCore.framework */; };
+		7464D0611612082400DE561C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7464D0601612082400DE561C /* Default@2x.png */; };
+		7478FBF715E74AE1004A2742 /* DFGNames.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7478FBF615E74AE1004A2742 /* DFGNames.plist */; };
+		74818CB315CB7B93001627E9 /* BIDWODList.m in Sources */ = {isa = PBXBuildFile; fileRef = 74818CB215CB7B93001627E9 /* BIDWODList.m */; };
+		7494684C15DAF7C7006A9E85 /* BIDWODDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = 7494684B15DAF7C7006A9E85 /* BIDWODDetails.m */; };
+		7494685415DD9BB0006A9E85 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7494685315DD9BB0006A9E85 /* MainStoryboard.storyboard */; };
+		74ADE6DB189382AA0050FCA0 /* BIDSettingDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74ADE6DA189382AA0050FCA0 /* BIDSettingDetailsViewController.m */; };
+		74ADE6DD1894B72D0050FCA0 /* DF_icon_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 74ADE6DC1894B72D0050FCA0 /* DF_icon_1.png */; };
+		74ADE6DF1894B7480050FCA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74ADE6DE1894B7480050FCA0 /* Images.xcassets */; };
+		74AFC3FE15A94835008E0D92 /* CrossfitWOD.plist in Resources */ = {isa = PBXBuildFile; fileRef = 74AFC3FD15A94835008E0D92 /* CrossfitWOD.plist */; };
+		74B9B2661612040E000B2885 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74B9B2651612040E000B2885 /* Default-568h@2x.png */; };
+		74BB2E7318932C6A008F58EA /* BIDSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74BB2E7218932C6A008F58EA /* BIDSettingsViewController.m */; };
+		74D944FC158EC4C200BADC7F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74D944FB158EC4C200BADC7F /* UIKit.framework */; };
+		74D944FE158EC4C200BADC7F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74D944FD158EC4C200BADC7F /* Foundation.framework */; };
+		74D94500158EC4C200BADC7F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74D944FF158EC4C200BADC7F /* CoreGraphics.framework */; };
+		74D94506158EC4C200BADC7F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 74D94504158EC4C200BADC7F /* InfoPlist.strings */; };
+		74D94508158EC4C200BADC7F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D94507158EC4C200BADC7F /* main.m */; };
+		74D9450C158EC4C200BADC7F /* BIDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D9450B158EC4C200BADC7F /* BIDAppDelegate.m */; };
+		74D94514158EC4C200BADC7F /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 74D94513158EC4C200BADC7F /* first.png */; };
+		74D94516158EC4C200BADC7F /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74D94515158EC4C200BADC7F /* first@2x.png */; };
+		74D9451B158EC4C200BADC7F /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 74D9451A158EC4C200BADC7F /* second.png */; };
+		74D9451D158EC4C200BADC7F /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74D9451C158EC4C200BADC7F /* second@2x.png */; };
+		74D94525158EC62E00BADC7F /* BIDDFOptionsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D94524158EC62E00BADC7F /* BIDDFOptionsController.m */; };
+		74D94528158EC66400BADC7F /* BIDDFGeneratedController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D94527158EC66400BADC7F /* BIDDFGeneratedController.m */; };
+		74D9452A158EC83A00BADC7F /* DFexercises.plist in Resources */ = {isa = PBXBuildFile; fileRef = 74D94529158EC83A00BADC7F /* DFexercises.plist */; };
+		74D9452D158FCE6400BADC7F /* BIDDFWorkout.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D9452C158FCE6400BADC7F /* BIDDFWorkout.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		745BBA7315F082CD00211CC2 /* stopwatch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stopwatch.png; sourceTree = "<group>"; };
+		745BBA7615F805A700211CC2 /* BIDDFWTimerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDDFWTimerView.h; sourceTree = "<group>"; };
+		745BBA7715F805A700211CC2 /* BIDDFWTimerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDDFWTimerView.m; sourceTree = "<group>"; };
+		745BBA7D15FA9D1800211CC2 /* BIDWODTimerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDWODTimerView.h; sourceTree = "<group>"; };
+		745BBA7E15FA9D1800211CC2 /* BIDWODTimerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDWODTimerView.m; sourceTree = "<group>"; };
+		745BBA8115FAA67700211CC2 /* BIDRandomWOD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDRandomWOD.h; sourceTree = "<group>"; };
+		745BBA8215FAA67700211CC2 /* BIDRandomWOD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDRandomWOD.m; sourceTree = "<group>"; };
+		745BBA8415FD743900211CC2 /* BIDWODRandomTimerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDWODRandomTimerView.h; sourceTree = "<group>"; };
+		745BBA8515FD743900211CC2 /* BIDWODRandomTimerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDWODRandomTimerView.m; sourceTree = "<group>"; };
+		745BBA8816013AE800211CC2 /* BIDGradientButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDGradientButton.h; sourceTree = "<group>"; };
+		745BBA8916013AE800211CC2 /* BIDGradientButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDGradientButton.m; sourceTree = "<group>"; };
+		745BBA8B1601475B00211CC2 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		7464D0601612082400DE561C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		7478FBF615E74AE1004A2742 /* DFGNames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DFGNames.plist; sourceTree = "<group>"; };
+		74818CB115CB7B93001627E9 /* BIDWODList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDWODList.h; sourceTree = "<group>"; };
+		74818CB215CB7B93001627E9 /* BIDWODList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDWODList.m; sourceTree = "<group>"; };
+		7494684A15DAF7C7006A9E85 /* BIDWODDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDWODDetails.h; sourceTree = "<group>"; };
+		7494684B15DAF7C7006A9E85 /* BIDWODDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDWODDetails.m; sourceTree = "<group>"; };
+		7494685315DD9BB0006A9E85 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		74ADE6D9189382AA0050FCA0 /* BIDSettingDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDSettingDetailsViewController.h; sourceTree = "<group>"; };
+		74ADE6DA189382AA0050FCA0 /* BIDSettingDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDSettingDetailsViewController.m; sourceTree = "<group>"; };
+		74ADE6DC1894B72D0050FCA0 /* DF_icon_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DF_icon_1.png; sourceTree = "<group>"; };
+		74ADE6DE1894B7480050FCA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		74AFC3FD15A94835008E0D92 /* CrossfitWOD.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CrossfitWOD.plist; sourceTree = "<group>"; };
+		74B9B2651612040E000B2885 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		74BB2E7118932C6A008F58EA /* BIDSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDSettingsViewController.h; sourceTree = "<group>"; };
+		74BB2E7218932C6A008F58EA /* BIDSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDSettingsViewController.m; sourceTree = "<group>"; };
+		74D944F7158EC4C200BADC7F /* Dynamic Forging 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dynamic Forging 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74D944FB158EC4C200BADC7F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		74D944FD158EC4C200BADC7F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		74D944FF158EC4C200BADC7F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		74D94503158EC4C200BADC7F /* Dynamic Forging 1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dynamic Forging 1-Info.plist"; sourceTree = "<group>"; };
+		74D94505158EC4C200BADC7F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		74D94507158EC4C200BADC7F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		74D94509158EC4C200BADC7F /* Dynamic Forging 1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Dynamic Forging 1-Prefix.pch"; sourceTree = "<group>"; };
+		74D9450A158EC4C200BADC7F /* BIDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDAppDelegate.h; sourceTree = "<group>"; };
+		74D9450B158EC4C200BADC7F /* BIDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDAppDelegate.m; sourceTree = "<group>"; };
+		74D94513158EC4C200BADC7F /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		74D94515158EC4C200BADC7F /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		74D9451A158EC4C200BADC7F /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		74D9451C158EC4C200BADC7F /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		74D94523158EC62E00BADC7F /* BIDDFOptionsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BIDDFOptionsController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		74D94524158EC62E00BADC7F /* BIDDFOptionsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BIDDFOptionsController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		74D94526158EC66400BADC7F /* BIDDFGeneratedController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BIDDFGeneratedController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		74D94527158EC66400BADC7F /* BIDDFGeneratedController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BIDDFGeneratedController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		74D94529158EC83A00BADC7F /* DFexercises.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DFexercises.plist; sourceTree = "<group>"; };
+		74D9452B158FCE6400BADC7F /* BIDDFWorkout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDDFWorkout.h; sourceTree = "<group>"; };
+		74D9452C158FCE6400BADC7F /* BIDDFWorkout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDDFWorkout.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		74D944F4158EC4C200BADC7F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				745BBA8C1601475B00211CC2 /* QuartzCore.framework in Frameworks */,
+				74D944FC158EC4C200BADC7F /* UIKit.framework in Frameworks */,
+				74D944FE158EC4C200BADC7F /* Foundation.framework in Frameworks */,
+				74D94500158EC4C200BADC7F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		745BBA8716013A9000211CC2 /* Custom UIObjects */ = {
+			isa = PBXGroup;
+			children = (
+				745BBA8816013AE800211CC2 /* BIDGradientButton.h */,
+				745BBA8916013AE800211CC2 /* BIDGradientButton.m */,
+			);
+			name = "Custom UIObjects";
+			sourceTree = "<group>";
+		};
+		7464D0631613687600DE561C /* DFW Generator Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				74D94523158EC62E00BADC7F /* BIDDFOptionsController.h */,
+				74D94524158EC62E00BADC7F /* BIDDFOptionsController.m */,
+				74D94526158EC66400BADC7F /* BIDDFGeneratedController.h */,
+				74D94527158EC66400BADC7F /* BIDDFGeneratedController.m */,
+				745BBA7615F805A700211CC2 /* BIDDFWTimerView.h */,
+				745BBA7715F805A700211CC2 /* BIDDFWTimerView.m */,
+				74D9452B158FCE6400BADC7F /* BIDDFWorkout.h */,
+				74D9452C158FCE6400BADC7F /* BIDDFWorkout.m */,
+			);
+			name = "DFW Generator Scenes";
+			sourceTree = "<group>";
+		};
+		7464D0641613690400DE561C /* WOD List Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				74818CB115CB7B93001627E9 /* BIDWODList.h */,
+				74818CB215CB7B93001627E9 /* BIDWODList.m */,
+				7494684A15DAF7C7006A9E85 /* BIDWODDetails.h */,
+				7494684B15DAF7C7006A9E85 /* BIDWODDetails.m */,
+				745BBA7D15FA9D1800211CC2 /* BIDWODTimerView.h */,
+				745BBA7E15FA9D1800211CC2 /* BIDWODTimerView.m */,
+			);
+			name = "WOD List Scenes";
+			sourceTree = "<group>";
+		};
+		7464D0651613691E00DE561C /* WOD Random Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				745BBA8115FAA67700211CC2 /* BIDRandomWOD.h */,
+				745BBA8215FAA67700211CC2 /* BIDRandomWOD.m */,
+				745BBA8415FD743900211CC2 /* BIDWODRandomTimerView.h */,
+				745BBA8515FD743900211CC2 /* BIDWODRandomTimerView.m */,
+			);
+			name = "WOD Random Scenes";
+			sourceTree = "<group>";
+		};
+		74D944EC158EC4C200BADC7F = {
+			isa = PBXGroup;
+			children = (
+				74ADE6D9189382AA0050FCA0 /* BIDSettingDetailsViewController.h */,
+				74ADE6DA189382AA0050FCA0 /* BIDSettingDetailsViewController.m */,
+				74BB2E7118932C6A008F58EA /* BIDSettingsViewController.h */,
+				74BB2E7218932C6A008F58EA /* BIDSettingsViewController.m */,
+				7464D0601612082400DE561C /* Default@2x.png */,
+				74B9B2651612040E000B2885 /* Default-568h@2x.png */,
+				745BBA8B1601475B00211CC2 /* QuartzCore.framework */,
+				74D94501158EC4C200BADC7F /* Dynamic Forging 1 */,
+				74D944FA158EC4C200BADC7F /* Frameworks */,
+				74D944F8158EC4C200BADC7F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		74D944F8158EC4C200BADC7F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				74D944F7158EC4C200BADC7F /* Dynamic Forging 1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		74D944FA158EC4C200BADC7F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				74D944FB158EC4C200BADC7F /* UIKit.framework */,
+				74D944FD158EC4C200BADC7F /* Foundation.framework */,
+				74D944FF158EC4C200BADC7F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		74D94501158EC4C200BADC7F /* Dynamic Forging 1 */ = {
+			isa = PBXGroup;
+			children = (
+				74D9450A158EC4C200BADC7F /* BIDAppDelegate.h */,
+				74D9450B158EC4C200BADC7F /* BIDAppDelegate.m */,
+				7494685315DD9BB0006A9E85 /* MainStoryboard.storyboard */,
+				7464D0631613687600DE561C /* DFW Generator Scenes */,
+				7464D0651613691E00DE561C /* WOD Random Scenes */,
+				7464D0641613690400DE561C /* WOD List Scenes */,
+				745BBA8716013A9000211CC2 /* Custom UIObjects */,
+				74ADE6DE1894B7480050FCA0 /* Images.xcassets */,
+				74D94502158EC4C200BADC7F /* Supporting Files */,
+			);
+			path = "Dynamic Forging 1";
+			sourceTree = "<group>";
+		};
+		74D94502158EC4C200BADC7F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				74ADE6DC1894B72D0050FCA0 /* DF_icon_1.png */,
+				74D94513158EC4C200BADC7F /* first.png */,
+				74D9451A158EC4C200BADC7F /* second.png */,
+				74D94515158EC4C200BADC7F /* first@2x.png */,
+				74D9451C158EC4C200BADC7F /* second@2x.png */,
+				745BBA7315F082CD00211CC2 /* stopwatch.png */,
+				74D94503158EC4C200BADC7F /* Dynamic Forging 1-Info.plist */,
+				74D94504158EC4C200BADC7F /* InfoPlist.strings */,
+				74D94507158EC4C200BADC7F /* main.m */,
+				74D94509158EC4C200BADC7F /* Dynamic Forging 1-Prefix.pch */,
+				74D94529158EC83A00BADC7F /* DFexercises.plist */,
+				74AFC3FD15A94835008E0D92 /* CrossfitWOD.plist */,
+				7478FBF615E74AE1004A2742 /* DFGNames.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		74D944F6158EC4C200BADC7F /* Dynamic Forging 1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 74D94520158EC4C200BADC7F /* Build configuration list for PBXNativeTarget "Dynamic Forging 1" */;
+			buildPhases = (
+				74D944F3158EC4C200BADC7F /* Sources */,
+				74D944F4158EC4C200BADC7F /* Frameworks */,
+				74D944F5158EC4C200BADC7F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Dynamic Forging 1";
+			productName = "Dynamic Forging 1";
+			productReference = 74D944F7158EC4C200BADC7F /* Dynamic Forging 1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		74D944EE158EC4C200BADC7F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = BID;
+				LastUpgradeCheck = 0460;
+				TargetAttributes = {
+					74D944F6158EC4C200BADC7F = {
+						DevelopmentTeam = HX76BH5U54;
+					};
+				};
+			};
+			buildConfigurationList = 74D944F1158EC4C200BADC7F /* Build configuration list for PBXProject "Dynamic Forging 1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 74D944EC158EC4C200BADC7F;
+			productRefGroup = 74D944F8158EC4C200BADC7F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				74D944F6158EC4C200BADC7F /* Dynamic Forging 1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		74D944F5158EC4C200BADC7F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74D94506158EC4C200BADC7F /* InfoPlist.strings in Resources */,
+				74D94514158EC4C200BADC7F /* first.png in Resources */,
+				74D94516158EC4C200BADC7F /* first@2x.png in Resources */,
+				74D9451B158EC4C200BADC7F /* second.png in Resources */,
+				74D9451D158EC4C200BADC7F /* second@2x.png in Resources */,
+				74ADE6DD1894B72D0050FCA0 /* DF_icon_1.png in Resources */,
+				74D9452A158EC83A00BADC7F /* DFexercises.plist in Resources */,
+				74AFC3FE15A94835008E0D92 /* CrossfitWOD.plist in Resources */,
+				7494685415DD9BB0006A9E85 /* MainStoryboard.storyboard in Resources */,
+				74ADE6DF1894B7480050FCA0 /* Images.xcassets in Resources */,
+				7478FBF715E74AE1004A2742 /* DFGNames.plist in Resources */,
+				745BBA7415F082CD00211CC2 /* stopwatch.png in Resources */,
+				74B9B2661612040E000B2885 /* Default-568h@2x.png in Resources */,
+				7464D0611612082400DE561C /* Default@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		74D944F3158EC4C200BADC7F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74D94508158EC4C200BADC7F /* main.m in Sources */,
+				74D9450C158EC4C200BADC7F /* BIDAppDelegate.m in Sources */,
+				74BB2E7318932C6A008F58EA /* BIDSettingsViewController.m in Sources */,
+				74D94525158EC62E00BADC7F /* BIDDFOptionsController.m in Sources */,
+				74D94528158EC66400BADC7F /* BIDDFGeneratedController.m in Sources */,
+				74D9452D158FCE6400BADC7F /* BIDDFWorkout.m in Sources */,
+				74ADE6DB189382AA0050FCA0 /* BIDSettingDetailsViewController.m in Sources */,
+				74818CB315CB7B93001627E9 /* BIDWODList.m in Sources */,
+				7494684C15DAF7C7006A9E85 /* BIDWODDetails.m in Sources */,
+				745BBA7815F805A700211CC2 /* BIDDFWTimerView.m in Sources */,
+				745BBA7F15FA9D1800211CC2 /* BIDWODTimerView.m in Sources */,
+				745BBA8315FAA67700211CC2 /* BIDRandomWOD.m in Sources */,
+				745BBA8615FD743A00211CC2 /* BIDWODRandomTimerView.m in Sources */,
+				745BBA8A16013AE800211CC2 /* BIDGradientButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		74D94504158EC4C200BADC7F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74D94505158EC4C200BADC7F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		74D9451E158EC4C200BADC7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		74D9451F158EC4C200BADC7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		74D94521158EC4C200BADC7F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Dynamic Forging 1/Dynamic Forging 1-Prefix.pch";
+				INFOPLIST_FILE = "Dynamic Forging 1/Dynamic Forging 1-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		74D94522158EC4C200BADC7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Dynamic Forging 1/Dynamic Forging 1-Prefix.pch";
+				INFOPLIST_FILE = "Dynamic Forging 1/Dynamic Forging 1-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		74D944F1158EC4C200BADC7F /* Build configuration list for PBXProject "Dynamic Forging 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				74D9451E158EC4C200BADC7F /* Debug */,
+				74D9451F158EC4C200BADC7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		74D94520158EC4C200BADC7F /* Build configuration list for PBXNativeTarget "Dynamic Forging 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				74D94521158EC4C200BADC7F /* Debug */,
+				74D94522158EC4C200BADC7F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 74D944EE158EC4C200BADC7F /* Project object */;
+}
